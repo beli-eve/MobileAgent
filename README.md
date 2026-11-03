@@ -1,5 +1,13 @@
 # MobileAgent
 
+## Demo video | v0.1
+
+[![Watch MobileAgent v0.1 real-device demo](docs/demo/MobileAgent_v0.1_Demo_Cover.png)](docs/demo/MobileAgent_v0.1_Demo.mp4)
+
+**[Watch the 76-second MP4 demo](docs/demo/MobileAgent_v0.1_Demo.mp4)** — real Android UI execution: WeChat contact search, local screenshot/OCR verification and messaging, followed by basic Gemini and ChatGPT app prompt submission. Private information has been masked in this edited video.
+
+> **Known limitation:** DeepSeek **Android App Skill** is Experimental; send-button detection is unreliable and submission may fail. This is separate from the working DeepSeek **API Planner**. The demo does not claim a full autonomous Agent Loop or independently verified message delivery.
+
 **Experimental Android-native Agent Runtime Prototype** — `v0.1` (release candidate)
 
 > Turns natural-language goals into structured plans and executes them on a real Android device through a modular Skill runtime.
